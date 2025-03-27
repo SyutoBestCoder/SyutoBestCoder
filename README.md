@@ -1,8 +1,39 @@
-# 💫 About Me:
-I'm a Java developer from the United Kingdom 🇬🇧 with a passion for video games and a keen interest in expanding my programming skills. I'm currently learning C++ and exploring the world of reverse engineering and related fields.
+## Hi there, I'm Syuto! 👋
 
+### Java Developer
 
-# 💻 Tech Stack:
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=flat&logo=flask&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![OpenGL](https://img.shields.io/badge/OpenGL-%23FFFFFF.svg?style=flat&logo=opengl) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white) ![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=flat&logo=Gradle&logoColor=white)
+[![GitHub followers](https://img.shields.io/github/followers/SyutoBestCoder?label=Followers&style=social)](https://github.com/SyutoBestCoder)
+[![GitHub stars](https://img.shields.io/github/stars/SyutoBestCoder/animations?label=Stars&style=social)](https://github.com/SyutoBestCoder/animations)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+I'm a Java developer based in the United Kingdom with a passion for video games and a strong interest in exploring the world of software development. I have experience in creating mods for the popular game Minecraft, allowing players to customize and enhance their gameplay experience. 
+
+🌱 I'm currently learning new programming concepts to expand my skill set, and one area I'm particularly interested in is C++ and reverse engineering. I find the process of understanding how software works and unlocking its secrets fascinating. Through this, I hope to gain a deeper understanding of game development and contribute to the field in the future.
+
+---
+
+## 💻 Skill Set
+
+- **Java:** Proficient in Java programming, with hands-on experience in developing Minecraft mods using Forge and Fabric frameworks.
+- **Software Development:** Solid understanding of software development principles and best practices, focusing on object-oriented programming.
+- **Git:** Proficient in using Git for version control and collaboration, enabling effective management of code repositories and contributions.
+
+---
+
+## 📊 GitHub Overview
+
+![Github Stats](https://github-readme-stats.vercel.app/api?username=SyutoBestCoder&show_icons=true&theme=dark)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SyutoBestCoder&layout=compact&theme=dark)
+
+[![GitHub Streak](https://streak-stats.herokuapp.com?user=SyutoBestCoder&theme=dark&hide_border=true)](https://github.com/DenverCoder1/github-readme-streak-stats)
+
+---
+
+## 📫 Reach Out to Me
+
+Do you have any questions, interesting ideas for collaboration or suggestions? Feel free to reach out to me! I'm always open to discussions and excited to connect with fellow developers and content creators.
+
+You can contact me through the following platforms:
+
+- **Email:** [syuto@example.com](mailto:malwarekat@gmail.com)
+- **Discord** @java.swing
