@@ -36,5 +36,5 @@ Do you have any questions, interesting ideas for collaboration, or suggestions? 
 
 You can contact me through the following platforms:  
 
-- **Email:** [syuto@example.com](mailto:syuto@example.com)  
+- **Email:** [malwarekat@gmail.com](mailto:malwarekat@gmail.com)  
 - **Discord:** @java.swing
