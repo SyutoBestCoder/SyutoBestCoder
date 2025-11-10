@@ -38,4 +38,5 @@ Do you have any questions, interesting ideas for collaboration, or suggestions? 
 You can contact me through the following platforms:  
 
 - **Email:** [malwarekat@gmail.com](mailto:malwarekat@gmail.com)  
-- **Discord:** @java.swing
+- **Discord:** @java.math
+  
